@@ -21,8 +21,9 @@
 - Delphi, MIDAS, ADO, Indy, FastReport, SQLite, MS SQL
 
 ## Контакты:
-  - e-mail: svshaginyan@gmail.com
-  - сайт: https://svshaginyan.ru/
-  - хабр: https://habr.com/ru/users/shagi80/
+- Telegram: @shagi80
+- e-mail: svshaginyan@gmail.com
+- сайт: https://svshaginyan.ru/
+- хабр: https://habr.com/ru/users/shagi80/
   
   
