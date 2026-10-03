@@ -71,7 +71,6 @@
 ## Контакты:
 - Telegram: @shagi80
 - e-mail: svshaginyan@gmail.com
-- сайт: https://svshaginyan.ru/
 - Habr: https://habr.com/ru/users/shagi80/
   
   
